@@ -1,0 +1,74 @@
+body{
+  background-color: rgb(252, 244, 179);
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+h1{
+  color: blue;
+  text-align: center;
+}
+.pic1{
+  width: 500px;
+  height: 300px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.H1{
+  color: blue;
+  text-align: center;
+}
+.pic2{
+  width: 100px;
+  height: 100px;
+}
+.sleep{
+  justify-content: center;
+  display: flex;
+}
+.first{
+  color: red;
+  width: 180px;
+}
+.H2{
+  color: blue;
+  text-align: center;
+}
+.pic3{
+  width: 100px;
+  height: 100px;
+}
+.food{
+  justify-content: center;
+  display: flex;
+}
+.second{
+  color: red;
+  width: 180px;
+}
+.H3{
+  color: blue;
+  text-align: center;
+}
+.pic4{
+  width: 100px;
+  height: 100px;
+}
+.shop{
+  justify-content: center;
+  display: flex;
+}
+.third{
+  color: red;
+  width: 180px;
+}
+footer{
+  background-color: rgb(255, 182, 24);
+  align-items: flex-end;
+}
+p{
+  color: #fff;
+  text-align: center;
+}
